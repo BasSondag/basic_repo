@@ -1,0 +1,8 @@
+on github i greated repo called: basic_repo. 	
+on my pc i greated repository also called: basic_repo, with index.html and outlines.txt. 
+added some html to index.html, added a folder with images in and updated the oulines of what i doing.
+ i git add.
+ than git commit -m "aded foler with images, index html and outlines.text".
+ git remote add origin https://github.com/BasSondag/basic_repo.git.
+ git push origin master.
+ aded style.css on my pc.
